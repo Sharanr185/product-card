@@ -1,3 +1,1 @@
-# product-card
-
-#this repository contains the description about the two products 
+This repository contains the source files for a stylish and modern product card design created using Figma. The product card is intended for use in web or mobile applications to showcase a product's key details in a visually appealing manner.
